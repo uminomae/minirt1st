@@ -1,0 +1,5 @@
+A 0.2 255,255,255
+# 数字以外の文字(a)	An incorrect non-numeric value was detected.
+C 0,10,0 0,-1,0 a
+L 200,200,200 0.8 255,255,255
+sp 0,0,5 4 255,255,255
