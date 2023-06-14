@@ -1,3 +1,6 @@
+<img width="2416" alt="flow_chart" src="https://github.com/uminomae/minirt1st/assets/101631407/2adfea34-8910-479b-972b-4bf15dec363c">
+<img width="1241" alt="shadow" src="https://github.com/uminomae/minirt1st/assets/101631407/cb976432-5b11-4cdb-9962-0c6d3c2d356d">
+<img width="1568" alt="スクリーンショット 2023-06-14 11 14 13" src="https://github.com/uminomae/minirt1st/assets/101631407/08c1f87a-8c8d-4920-b37e-2a5a8dcda5eb">
 # minirt1st
 
 # TEST
